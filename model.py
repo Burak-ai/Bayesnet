@@ -1,4 +1,3 @@
-# it works but pomegranate is very big so dont install it
 from pomegranate import *
 
 # Rain node has no parents
